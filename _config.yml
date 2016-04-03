@@ -1,6 +1,6 @@
 name: thebox
 favicon: null
-layout_spectrum: 0.0617
+layout_spectrum: 1
 typography_spectrum: 0.037472583120688796
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.6700769327580929
+  brandStrength: 0.5
   lightness: 0.4528724509291351
   saturation: 0.35112160397693515
   rhythmicContrast: 0.818103016121313
