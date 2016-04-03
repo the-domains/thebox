@@ -1,0 +1,28 @@
+name: thebox
+favicon: null
+layout_spectrum: 0.9464216171763837
+typography_spectrum: 0.037472583120688796
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6700769327580929
+  lightness: 0.4528724509291351
+  saturation: 0.35112160397693515
+  rhythmicContrast: 0.818103016121313
+purpose: []
