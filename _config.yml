@@ -1,28 +1,40 @@
-name: thebox
 favicon: null
-layout_spectrum: 0.76298
-typography_spectrum: 0.24388
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: thebox
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
-  brandColors:
-    - '#ffffff'
-    - '#1d1c22'
-    - '#b9ab91'
-    - '#6f4f42'
-    - '#aa735f'
+  saturation: 0.693617
   brandStrength: 1
   lightness: 0.5625
-  saturation: 0.5
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#554837'
+    - '#779043'
+    - '#DCAA80'
   rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.24388
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
