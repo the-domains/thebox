@@ -1,8 +1,4 @@
-favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+name: thebox
 opengraph:
   image: null
   type: null
@@ -13,28 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.693617
-  brandStrength: 0.4127659
-  lightness: 0.5625
+  brandStrength: 0.7808511
+  lightness: 0.5638298
   brandColors:
     - '#FFFFFF'
     - '#000000'
     - '#554837'
     - '#779043'
     - '#DCAA80'
-  rhythmicContrast: 0.5042553
+  rhythmicContrast: 0.7510638
 typography_spectrum: 0.24388
-layout_spectrum: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
-name: thebox
+favicon: null
+layout_spectrum: 1
